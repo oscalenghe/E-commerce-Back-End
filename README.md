@@ -15,3 +15,6 @@ The installation is shown in the preview video above. Clone the repository to yo
 2. `npm run seed`  
 3. `node server`  
 4. open Insomnia
+
+## License
+See repository
