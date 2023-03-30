@@ -22,4 +22,4 @@ See repository
 ## Credits
 Utilized many files from bootcamp ORM module, specifically files 20-26. Also had the help of classmates and other existing repositories which are linked below.  
 1. [@ndifiori](https://github.com/ndifiori/ORM-E-Commerce-Backend-)  
-2. [Repartheman](https://github.com/Reptartheman/E-Commerce-Back-End)  
+2. [@Repartheman](https://github.com/Reptartheman/E-Commerce-Back-End)  
